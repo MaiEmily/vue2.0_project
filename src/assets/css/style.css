@@ -1,0 +1,70 @@
+/*
+* @Author: admin
+* @Date:   2018-08-15 14:36:42
+* @Last Modified by:   admin
+* @Last Modified time: 2018-08-15 14:43:16
+*/
+
+@media all and (min-width:721px) {
+	html { font-size: 250% }
+}
+@media all and (max-width:720px) {
+	html { font-size: 250% }
+}
+@media all and (max-width:640px) {
+	html { font-size: 222.222% }
+}
+@media all and (max-width:540px) {
+	html { font-size: 187.5% }
+}
+@media all and (max-width:480px) {
+	html { font-size: 166.668% }
+}
+@media all and (max-width:432px) {
+	html { font-size: 150% }
+}
+@media all and (max-width:414px) {
+	html { font-size: 143.75% }
+}
+@media all and (max-width:400px) {
+	html { font-size: 138.888% }
+}
+@media all and (max-width:393px) {
+	html { font-size: 130.204% }
+}
+@media all and (max-width:375px) {
+	html { font-size: 130.204% }
+}
+@media all and (max-width:360px) {
+	html { font-size: 125% }
+}
+@media all and (max-width:340px) {
+	html { font-size: 118.056% }
+}
+@media all and (max-width:320px) {
+	html { font-size: 111.112% }
+}
+
+html{height:100%;background: #eaeaea;}
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	max-width: 720px;	
+	width: 100%;
+	min-height: 100%;
+	margin: 0 auto;
+	color: #333;
+	background: #fff;
+	
+}
+a{
+	text-decoration: none;
+	color: #333;
+}
+.tgbanner .mint-swipe-items-wrap{
+	height: 0;
+	padding-bottom:41%;
+}

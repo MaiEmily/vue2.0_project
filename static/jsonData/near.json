@@ -1,0 +1,140 @@
+{
+	"shangjia":[
+		{
+			"storeName":[
+				{
+					"title":"蠔味湿辣牛肉（金城店）",
+					"appraise":4.7,
+					"numappr":38,
+					"address":"金城路          1.55km"
+				}
+			],
+			
+			"prolist":[
+				{
+					"img":"static/imageData/food1.jpg",
+					"proname":"湿辣牛肉",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				},
+				{
+					"img":"static/imageData/food2.jpg",
+					"proname":"狮子头",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				},
+				{
+					"img":"static/imageData/food3.jpg",
+					"proname":"麻婆豆腐",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				},
+				{
+					"img":"static/imageData/food4.jpg",
+					"proname":"梅州腌面",
+					"des":"人气口碑好 ",
+					"price":100,
+					"delprice":28,
+					"sale":100	
+				}
+			]
+		},
+		{
+			"storeName":[
+				{
+					"title":"筒骨鲜粉店",
+					"appraise":4.7,
+					"numappr":28,
+					"address":"中山路            2.00km"
+				}
+			],
+			
+			"prolist":[
+				{
+					"img":"static/imageData/food7.jpg",
+					"proname":"红烧肉",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale": 100		
+				},
+				{
+					"img":"static/imageData/food8.jpg",
+					"proname":"狮子头",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale": 100		
+				},
+				{
+					"img":"static/imageData/food9.jpg",
+					"proname":"麻婆豆腐",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				},
+				{
+					"img":"static/imageData/food4.jpg",
+					"proname":"梅州腌面",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100	
+				}
+			]
+		},
+		{
+			"storeName":[
+				{
+					"title":"坚记美食",
+					"appraise":4.8,
+					"numappr":79,
+					"address":"寸金桥          1km"
+				}
+			],
+			
+			"prolist":[
+				{
+					"img":"static/imageData/food2.jpg",
+					"proname":"红烧肉",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				},
+				{
+					"img":"static/imageData/food3.jpg",
+					"proname":"狮子头",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100	
+				},
+				{
+					"img":"static/imageData/food4.jpg",
+					"proname":"麻婆豆腐",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				},
+				{
+					"img":"static/imageData/food5.jpg",
+					"proname":"梅州腌面",
+					"des":"人气口碑好 ",
+					"price":18.9,
+					"delprice":28,
+					"sale":100		
+				}
+			]
+		}
+	]
+
+}
